@@ -5,4 +5,5 @@ The notebook contains the data exploration as well as model building and evaluat
 
 ## Dataset 
 https://www.kaggle.com/datasets/fabianavinci/guitar-chords-v3
-Note: the taining and test files were merged, and split in the code.
+
+<b>Note</b>: the taining and test files were merged, and split in the code.
